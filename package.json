@@ -3,7 +3,7 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://1Rubika.github.io/My_AI-ML_Profile"
+  "homepage": "https://1Rubika.github.io/My_AI-ML_profile"
   "type": "module",
   "scripts": {
     "dev": "vite",
