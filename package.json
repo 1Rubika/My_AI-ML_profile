@@ -1,3 +1,10 @@
+"homepage": "https://1Rubika.github.io/My_AI-ML_Profile"
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
 {
   "name": "vite_react_shadcn_ts",
   "private": true,
