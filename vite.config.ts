@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/My_AI-ML_Profile/",
+  base: "/My_AI-ML_profile/",
 
   server: {
     host: "::",
